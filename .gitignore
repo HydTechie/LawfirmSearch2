@@ -86,3 +86,7 @@ cython_debug/
 *.bat
 *.ps1
 *.cfg
+
+model_cache/
+backend/storage/
+storage/
