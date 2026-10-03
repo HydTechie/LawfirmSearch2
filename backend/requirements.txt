@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pydantic
+chromadb          # keep your existing version
+sentence-transformers
+pypdf
+python-docx
+markdown
+httpx
+python-dotenv
+
+# Compatible versions for Python 3.13
+torch
+numpy

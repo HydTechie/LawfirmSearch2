@@ -1,0 +1,7 @@
+Master Services Agreement (Excerpt)
+
+Arbitration: Any dispute, controversy, or claim arising out of or relating to this Agreement, or the breach thereof, shall be settled by arbitration administered by the designated Arbitral Institution under its Commercial Arbitration Rules. The seat of arbitration shall be Bengaluru, India. Judgment on the award rendered by the arbitrator(s) may be entered in any court having jurisdiction.
+
+Confidentiality: Each party shall keep confidential and not disclose to any third party any Confidential Information received from the other party.
+
+Governing Law: This Agreement shall be governed by and construed in accordance with the laws of India.

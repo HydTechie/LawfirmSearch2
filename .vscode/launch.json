@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Attach to Chrome",
+      "port": 9222,
+      "request": "attach",
+      "type": "chrome",
+      "webRoot": "${workspaceFolder}/src"
+    },
+    {
+      "name": "Run FastAPI app",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/backend/app.py",
+      "console": "integratedTerminal",
+      "python": "C:\\AIMLE\\LawfirmSearch\\backend\\lawEnv3\\Scripts\\python.exe",
+      "args": ["-m", "uvicorn", "app:app", "--reload", "--host", "0.0.0.0", "--port", "3000"]
+    }
+  ]
+}
